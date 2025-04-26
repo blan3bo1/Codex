@@ -1,0 +1,21 @@
+"apps": [
+    {
+        "name": "krnl",
+        "bundleIdentifier": "com.krnl.client",
+        "marketplaceID": "0",
+        "developerName": "blankboii",
+        "subtitle": "An roblox executor.",
+        "localizedDescription": "This is an roblox executor v669.",
+        "iconURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+        "patreon": {},
+    },
+]
