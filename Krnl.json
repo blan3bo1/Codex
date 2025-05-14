@@ -1,24 +1,55 @@
 {
-  "name": "blankboii's repo",
-  "identifier": "repo.yourname.blankboii",
-  "sourceURL": "https://raw.githubusercontent.com/blan3bo1/Codex/refs/heads/main/Krnl.json",
-  "iconURL": "https://i.ibb.co/tpvdMpfR/IMG-0167.jpg",
-  "website": "https://github.com/YourName028/",
-  "subtitle": "roblox executors",
-  "META": {
-    "repoName": "blankboii repo",
-    "iconURL": " https://i.ibb.co/tpvdMpfR/IMG-0167.jpg"
-}
-"apps": [
+  "name": "PSV executor repo",
+  "subtitle": "A repository for all executors",
+  "description": "Welcome to this repo I will host all executors on this for you to not download it from the mediafire links. ",
+  "iconURL": "https://i.imgur.com/N1KtVEE.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#ff6b00",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/0ljetLX.png",
+  "apps": [
     {
-      "name": "krnl",
-      "bundleIdentifier": "com.blankboii.krnl",
-      "developerName": "blankboii",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png",
-      "version": "669.0",
-      "size": 300747,
-      "downloadURL": "https://limewire.com/d/4YLuH#CA2iA6LvX9",
-      "localizedDescription": "A roblox executors krnl.",
-      "versionDate": "2025-04-26",
-      "type": 1
-    },
+      "name": "Codex",
+      "bundleIdentifier": "com.roblox.robloxmobile.codex",
+      "marketplaceID": "",
+      "developerName": "Blankboii",
+      "subtitle": "An roblox executor ",
+      "localizedDescription": "This app if for all of your roblox executor needs",
+      "iconURL": "https://i.imgur.com/OMC8mVl.jpeg",
+      "tintColor": "#2672d8",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://i.imgur.com/Cf2tkq0.png",
+          "width": 1792,
+          "height": 828
+        },
+        {
+          "imageURL": "https://i.imgur.com/Seq3PK1.png",
+          "width": 1792,
+          "height": 828
+        },
+        {
+          "imageURL": "https://i.imgur.com/0PvMctl.png",
+          "width": 1792,
+          "height": 828
+        },
+        {
+          "imageURL": "https://i.imgur.com/Lf0irQ2.png",
+          "width": 1792,
+          "height": 828
+        }
+      ],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Roblox uses your camera to animate your avatar with your movement and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
